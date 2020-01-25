@@ -1,0 +1,53 @@
+{
+  "name": "albreis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbreisNetwork/albreis.git"
+  },
+  "keywords": [
+    "webpack",
+    "event-bus",
+    "vue",
+    "pdf"
+  ],
+  "author": "Albreis - Design & Programação",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlbreisNetwork/albreis/issues"
+  },
+  "homepage": "https://github.com/AlbreisNetwork/albreis#readme",
+  "dependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "jspdf": "^1.5.3",
+    "vue": "^2.6.11",
+    "vue-loader": "^15.8.3",
+    "vue-router": "^3.1.5",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.4.2",
+    "fibers": "^4.0.2",
+    "less": "^3.10.3",
+    "less-loader": "^5.0.0",
+    "node-sass": "^4.13.1",
+    "npx": "^10.2.1",
+    "sass": "^1.25.0",
+    "sass-loader": "^8.0.2",
+    "scss": "^0.2.4",
+    "scss-loader": "0.0.1",
+    "styl": "^0.2.9",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
